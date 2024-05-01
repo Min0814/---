@@ -30,3 +30,4 @@ for announcement1 in announcement:
     data = [str(i), title]
     writer.writerow(data)
     i += 1
+    #.
